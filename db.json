@@ -3,29 +3,43 @@
     {
       "id": 1,
       "title": "Shargeek Retro 35 — зарядка в виде древнего «мака»",
-      "body": "Производитель аксессуаров Shargeek презентовал на краудфандинговой платформе Indiegogo новое зарядное устройство. Среди сотен тысяч аналогичных решений его выделяет необычный дизайн в виде крошечного компьютера Apple Macintosh из прошлого столетия.\n\nДальше идет пример добавления новой строки",
-      "image": "JvgRsydyrV3tCFUR-XCUAXEz3F-QQyOvbheoj64HGP3fqfKEZwOhNrfQkSJfeWHYXgfg-rQazgjYZnKZM6AyFBol.jpg",
-      "ts": 16536279055469
+      "body": "Производитель аксессуаров Shargeek презентовал на краудфандинговой платформе Indiegogo новое зарядное устройство. Среди сотен тысяч аналогичных решений его выделяет необычный дизайн в виде крошечного компьютера Apple Macintosh из прошлого столетия.\r\n\r\nДальше идет пример добавления новой строки",
+      "image": "JvgRsydyrV3tCFUR-XCUAXEz3F-QQyOvbheoj64HGP3fqfKEZwOhNrfQkSJfeWHYXgfg-rQazgjYZnKZM6AyFBol-1654427565955.jpg",
+      "ts": 1653627905469
     },
     {
       "id": 2,
       "title": "Когда прекратится поддержка PS4? Ответ в новом отчёте Sony. Дальше идет пример длинного заголовка поста",
       "body": "Несмотря на то что выход консолей нового поколения состоялся полтора года назад, для большинства геймеров они до сих пор имеют статус диковинки. В связи с этим возникает логичный вопрос: как долго Sony планирует выпускать игры на PlayStation 4? Можно не переживать, время ещё есть.",
       "image": "fI5v14XwkQ_6XRRjY3OdTeKvLh4MkH6sHOUpWU5843zrlp-PDotfrrIjgnoRe---fcGRyifTy0yReCBEk6jbkRrr.jpg",
-      "ts": 16537460472706
+      "ts": 1653746042706
     },
     {
       "id": 3,
       "title": "Нейросеть сочинила мини-историю про дружбу робота и человека",
       "body": "Пользователь Триструм Таттл сообщил о том, как попросил ИИ написать небольшой рассказ об искусственном интеллекте, а затем использовал другой ИИ для создания иллюстраций к этой истории. Получился настораживающе невинный мини-рассказ с некоторыми агитационными вкраплениями, как если бы искусственный интеллект способствовал популяризации ИИ и его глобальному внедрению в быт.",
       "image": "Sftebz0AVoBr6oaTYenz1z1SJG3mmWw.jpg",
-      "ts": 16538220781998
+      "ts": 1653822071998
+    },
+    {
+      "title": "Новый пост",
+      "body": "Создан в уже стилизированном приложении",
+      "ts": 1654438937507,
+      "image": "img-1654438937503-1654456993790.jpg",
+      "id": 6
+    },
+    {
+      "title": "Наверное, последняя запись",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "ts": 1654457962620,
+      "image": "img-1654457962618.jpg",
+      "id": 7
     }
   ],
   "comments": [
     {
       "id": 1,
-      "post_id": 1,
+      "postId": 1,
       "user": {
         "name": "Лупа Пупов",
         "image": "lupa.jpg",
@@ -35,7 +49,7 @@
     },
     {
       "id": 2,
-      "post_id": 1,
+      "postId": 1,
       "user": {
         "name": "Пупа Лупов",
         "image": "pupa.jpg",
@@ -45,7 +59,7 @@
     },
     {
       "id": 3,
-      "post_id": 2,
+      "postId": 2,
       "user": {
         "name": "Пупа Лупов",
         "image": "pupa.jpg",
@@ -55,13 +69,33 @@
     },
     {
       "id": 4,
-      "post_id": 2,
+      "postId": 2,
       "user": {
         "name": "Митя",
         "image": "mitya.jpg",
         "role": 1
       },
       "body": "Соболезную"
+    },
+    {
+      "id": 5,
+      "postId": 1,
+      "user": {
+        "name": "Митя",
+        "image": "mitya.jpg",
+        "role": 1
+      },
+      "body": "Test comment"
+    },
+    {
+      "id": 9,
+      "postId": 7,
+      "user": {
+        "name": "Митя",
+        "image": "mitya.jpg",
+        "role": 1
+      },
+      "body": "Ahhahaah XD"
     }
   ],
   "user": {

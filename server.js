@@ -28,7 +28,7 @@ server.use('/posts', upload.single('image'), (req, res, next) => {
     const isEdit = req.method === 'PATCH';
 
     if (isNew)
-        req.body.ts = Date.UTC();
+        req.body.ts = Date.now();
 
     if ((isNew || isEdit) && req.file)
         req.body.image = req.file.filename;
