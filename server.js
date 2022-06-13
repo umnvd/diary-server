@@ -37,6 +37,7 @@ server.use('/posts', upload.single('image'), (req, res, next) => {
 });
 
 server.use(router);
-server.listen(3010, () => {
-    console.log('Diary Server is running')
+
+server.listen(8080, () => {
+    console.log('Diary Server is running');
 });
